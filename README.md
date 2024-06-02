@@ -18,3 +18,16 @@ To get started with the project, follow these steps:
    ```sh
    git clone https://github.com/Sanowar72/portfolio.git
    ```
+2. Navigate to the project directory:
+   ```sh
+   cd portfolio
+   ```
+3. Install the dependencies:
+   ```sh
+   npm install
+   ```
+4. To run the project locally, use the following command::
+   ```sh
+   npm run dev
+   ```
+This will start the development server and you can view your portfolio at http://localhost:5173/.
