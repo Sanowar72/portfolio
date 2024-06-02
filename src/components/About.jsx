@@ -22,11 +22,11 @@ const About = () => {
               </a>
             </p>
             <p className="text-slate-600 leading-loose">
-              I enjoy creating things for the internet whether that be a website
-              or an application or anything in between which is not only
-              functional but also beautiful bringing elegant experience.
-              Whenever I am not studying or working, I’m probably watching
-              movies or tv-shows.
+              I have a passion for creating web-based projects, whether it be
+              developing websites, applications, or any related endeavors. My
+              goal is to produce not only functional but also aesthetically
+              pleasing and elegant user experiences. When I am not studying or
+              working, I enjoy unwinding by watching movies and TV shows.
             </p>
           </article>
         </div>

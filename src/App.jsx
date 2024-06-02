@@ -7,13 +7,13 @@ import Projects from "./components/Projects";
 
 const App = () => {
   return (
-    <>
+    <div className="scroll-smooth">
       <Navbar />
       <Hero />
       <Skills />
       <About />
       <Projects />
-    </>
+    </div>
   );
 };
 
