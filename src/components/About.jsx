@@ -10,7 +10,7 @@ const About = () => {
           <article>
             <SectionTitle text="About" />
             <p className="text-slate-600 mt-8 leading-loose">
-              Hello! I’m Md Sanowar Alam from Banglore. I have completed
+              Hello! I’m Md Sanowar Alam from Bangalore. I have completed
               Information Science and Engineering from,
               <a
                 style={{ padding: "5px" }}
