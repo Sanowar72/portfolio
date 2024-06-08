@@ -10,6 +10,7 @@ import {
 import salesCaptain from "../assets/images/salesCaptain-clone.png";
 import ecommerce from "../assets/images/e-commerce.png";
 import petCare from "../assets/images/petcare.png";
+import expressImg from "../assets/images/expressapi.png";
 
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
@@ -99,5 +100,13 @@ export const projects = [
     github: "https://github.com/Sanowar72/new-react-e-commerce-project",
     title: "E-commerce",
     text: "A web application for online shopping, offering a variety of products with advanced filtering options to streamline and enhance the overall shopping experience. Users can add and delete items from their cart.",
+  },
+  {
+    id: nanoid(),
+    img: expressImg,
+    url: "https://expresswithmongo.onrender.com/api/users?page=1",
+    github: "https://github.com/Sanowar72/expresswithmongo",
+    title: "User Management API",
+    text: "A user management API enabling CRUD operations on user data with search and filter features. Provides detailed user information access. Project solely focuses on user management without shopping functionalities.",
   },
 ];
