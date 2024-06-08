@@ -6,7 +6,7 @@ import { projects } from "../assets/data";
 const Projects = () => {
   return (
     <div className="py-5" id="projects">
-      <section className="py-20 align-element">
+      <section className="pt-20 pb-0 align-element">
         <SectionTitle text="web creations" />
         <div className="py-16 grid lg:grid-cols-2 xl:grid-cols-3 gap-8">
           {projects.map((project) => {
